@@ -1,0 +1,11 @@
+datasets
+sentence-transformers
+faiss-cpu
+transformers==4.46.3
+keybert==0.8.5
+langchain-community
+langchain-core
+langchain-huggingface
+pandas
+numpy
+scikit-learn
